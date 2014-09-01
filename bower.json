@@ -1,0 +1,20 @@
+{
+  "name": "angular-material-aria-bug",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "1.3.0-beta.19",
+    "angular-animate": "1.3.0-beta.19"
+  },
+  "homepage": "https://github.com/plato-cambrian/angular-material-aria-bug",
+  "authors": [
+    "plato-cambrian <plato@cambrian.org>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
